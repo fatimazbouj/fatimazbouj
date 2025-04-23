@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Fatima Zahra
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F94A6B&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Fatima+Zahra;Fullstack+Developer+%F0%9F%92%BB;Passionate+about+clean+code+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
+
+
 
 ### 💻 Fullstack Developer | Passionate about building modern, scalable web applications
 
@@ -36,6 +40,6 @@
 
 ### 📊 GitHub Stats
 
-![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimazbouj&show_icons=true&theme=radical)
+<!--![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimazbouj&show_icons=true&theme=radical)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimazbouj&layout=compact&theme=radical)
