@@ -38,6 +38,7 @@
 
 - GitHub: [github.com/fatimazbouj](https://github.com/fatimazbouj)
 - LinkedIn: [linkedin.com/in/boujrar-fatima-zahra-a19b29114](https://linkedin.com/in/boujrar-fatima-zahra-a19b29114)
+- Meduim: [https://medium.com/@fatibouj33]
 
 ---
 
