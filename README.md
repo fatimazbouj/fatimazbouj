@@ -11,6 +11,9 @@
 ### 🚀 Tech Stack & Tools
 
 <div align="left">
+  <img src="https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
@@ -24,7 +27,7 @@
 
 ### 🌱 About Me
 
-- 💡 Fullstack developer with hands-on experience in Angular & NestJS
+- 💡 Fullstack developer with hands-on experience in node js , Angular & NestJS
 - 🧠 Big fan of reactive programming and clean architecture
 - ⚙️ I enjoy working in agile teams and building scalable systems
 - 📈 Currently improving my backend skills and diving deeper into DevOps
